@@ -35,13 +35,17 @@
 [![xcode](https://img.shields.io/badge/Xcode-13.3-blue)]()
 
 # 순서도 
+step 1
 ![](https://i.imgur.com/vBsl4sT.jpg)
+step 2
+![Uploading WEEK2STEP2flowChart_.png…]()
 
 # 키워드  
 - `switch`, `static`, `재귀함수`, `case`, `extension`, `guard`  
 - `enum`, `class`, `protocol`
 - `파일 분리화`, `함수 세분화`
 # 그라운드 룰
+
 ## 활동시간
 변동사항 있으면 DM 보내줄 것
 
