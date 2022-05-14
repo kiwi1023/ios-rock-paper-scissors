@@ -35,10 +35,11 @@
 [![xcode](https://img.shields.io/badge/Xcode-13.3-blue)]()
 
 # 순서도 
-step 1
+- step 1
 ![](https://i.imgur.com/vBsl4sT.jpg)
-step 2
-![Uploading WEEK2STEP2flowChart_.png…]()
+
+- step 2
+![](https://i.imgur.com/YVImTUM.png)
 
 # 키워드  
 - `switch`, `static`, `재귀함수`, `case`, `extension`, `guard`  
